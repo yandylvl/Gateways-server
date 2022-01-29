@@ -13,7 +13,9 @@ app.db = router.db;
 //   users: 600,
 // });
 
-// app.use(rules);
+app.use((req, res, next) => {
+  res.header("Access-Control-Allow-Origin", "*");
+});
 app.use(auth);
 app.use(router);
 app.listen(port);
