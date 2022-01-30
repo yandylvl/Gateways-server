@@ -215,8 +215,8 @@
       ]
     },
     {
-      "id": "ASAD21312ADASDA",
-      "serialNumber": "asad21312adasda",
+      "id": "ASAD2112AD",
+      "serialNumber": "ASAD2112AD",
       "name": "gateway a",
       "address": "123.21.54.5",
       "peripherals": [
@@ -227,6 +227,181 @@
           "status": true
         }
       ]
+    },
+    {
+      "id": "70F3R10F3R",
+      "serialNumber": "70F3R10F3R",
+      "name": "gateway 7",
+      "address": "123.24.51.7",
+      "peripherals": [
+        {
+          "UID": 1,
+          "vendor": "vendor 1",
+          "date": "Sun Jan 30 2022 03:57:18",
+          "status": false
+        },
+        {
+          "UID": 2,
+          "vendor": "vendor 2",
+          "date": "Sun Jan 30 2022 03:57:28",
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": "80F3R10F3R",
+      "serialNumber": "80F3R10F3R",
+      "name": "gateway 8",
+      "address": "123.24.51.28",
+      "peripherals": [
+        {
+          "UID": 1,
+          "vendor": "vendor 1",
+          "date": "Sun Jan 30 2022 04:07:37",
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": "90F3R10F3R",
+      "serialNumber": "90F3R10F3R",
+      "name": "gateway 9",
+      "address": "125.21.4.29",
+      "peripherals": [
+        {
+          "UID": 1,
+          "vendor": "vendor 1",
+          "date": "Sun Jan 30 2022 04:08:24",
+          "status": true
+        },
+        {
+          "UID": 2,
+          "vendor": "vendor 2",
+          "date": "Sun Jan 30 2022 04:08:28",
+          "status": true
+        },
+        {
+          "UID": 3,
+          "vendor": "vendor 3",
+          "date": "Sun Jan 30 2022 04:08:34",
+          "status": false
+        },
+        {
+          "UID": 4,
+          "vendor": "vendor 4",
+          "date": "Sun Jan 30 2022 04:08:38",
+          "status": false
+        },
+        {
+          "UID": 5,
+          "vendor": "vendor 5",
+          "date": "Sun Jan 30 2022 04:08:42",
+          "status": false
+        },
+        {
+          "UID": 6,
+          "vendor": "v 1",
+          "date": "Sun Jan 30 2022 04:08:50",
+          "status": true
+        },
+        {
+          "UID": 7,
+          "vendor": "v 7",
+          "date": "Sun Jan 30 2022 04:09:01",
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": "10F3R10F3E",
+      "serialNumber": "10F3R10F3e",
+      "name": "gateway 10",
+      "address": "125.21.4.22",
+      "peripherals": [
+        {
+          "UID": 1,
+          "vendor": "vendor 1",
+          "date": "Sun Jan 30 2022 04:10:27",
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": "10F3R10F3V",
+      "serialNumber": "10F3R10F3v",
+      "name": "gateway 11",
+      "address": "12.123.123.123",
+      "peripherals": [
+        {
+          "UID": 1,
+          "vendor": "vendor 1",
+          "date": "Sun Jan 30 2022 04:11:02",
+          "status": false
+        },
+        {
+          "UID": 2,
+          "vendor": "vendor 2",
+          "date": "Sun Jan 30 2022 04:11:03",
+          "status": true
+        },
+        {
+          "UID": 3,
+          "vendor": "vendor 3",
+          "date": "Sun Jan 30 2022 04:11:05",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": "10F3R10F3X",
+      "serialNumber": "10F3R10F3x",
+      "name": "gateway 12",
+      "address": "123.24.51.22",
+      "peripherals": [
+        {
+          "UID": 1,
+          "vendor": "vendor 1",
+          "date": "Sun Jan 30 2022 04:11:38",
+          "status": false
+        },
+        {
+          "UID": 2,
+          "vendor": "vendor 2",
+          "date": "Sun Jan 30 2022 04:11:42",
+          "status": false
+        },
+        {
+          "UID": 3,
+          "vendor": "vendor 3",
+          "date": "Sun Jan 30 2022 04:11:47",
+          "status": false
+        },
+        {
+          "UID": 4,
+          "vendor": "vendor 4",
+          "date": "Sun Jan 30 2022 04:11:51",
+          "status": false
+        },
+        {
+          "UID": 5,
+          "vendor": "vendor 5",
+          "date": "Sun Jan 30 2022 04:11:55",
+          "status": false
+        },
+        {
+          "UID": 6,
+          "vendor": "v 1",
+          "date": "Sun Jan 30 2022 04:11:59",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": "10F3R10F3L",
+      "serialNumber": "10F3R10F3l",
+      "name": "gateway 9a",
+      "address": "123.24.51.25",
+      "peripherals": []
     }
   ]
 }
